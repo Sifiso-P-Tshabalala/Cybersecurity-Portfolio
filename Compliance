@@ -1,0 +1,56 @@
+# ✅ NIST Cybersecurity Framework vs POPIA Comparison
+
+**Document Owner:** Sifiso P. Tshabalala  
+**Version:** 1.0  
+**Effective Date:** 2025-05-07  
+**Last Reviewed:** 2025-05-07  
+
+---
+
+## 1. Introduction
+
+The **National Institute of Standards and Technology Cybersecurity Framework (NIST CSF)** and the **Protection of Personal Information Act (POPIA)** are two key frameworks relevant to cybersecurity and data protection. While NIST CSF focuses on risk management and cybersecurity best practices, POPIA regulates the processing of personal information in South Africa.
+
+---
+
+## 2. NIST Cybersecurity Framework (CSF)
+
+- **Purpose:** Provides a risk-based approach to managing and improving cybersecurity.
+- **Structure:**  
+  - **Identify**: Understand and manage cybersecurity risks.
+  - **Protect**: Implement safeguards to ensure critical infrastructure delivery.
+  - **Detect**: Implement activities to identify cybersecurity events in a timely manner.
+  - **Respond**: Develop and implement appropriate activities to respond to detected cybersecurity events.
+  - **Recover**: Develop and implement activities to maintain resilience and restore capabilities.
+
+---
+
+## 3. POPIA (Protection of Personal Information Act)
+
+- **Purpose:** A South African law designed to protect the personal information of citizens.
+- **Key Principles:**  
+  - **Accountability:** Organizations must ensure that personal information is protected.
+  - **Transparency:** Personal information should be collected for a specific purpose and used accordingly.
+  - **Security Safeguards:** Organizations must implement measures to protect personal data against unauthorized access or breaches.
+  - **Data Subject Rights:** Individuals have the right to access, correct, or object to the processing of their personal information.
+
+---
+
+## 4. Key Differences
+
+| NIST CSF                        | POPIA                            |
+|----------------------------------|----------------------------------|
+| Focuses on general cybersecurity | Focuses on personal data protection |
+| Broad international applicability | Specific to South Africa |
+| Framework for organizations to manage risk | Law for compliance with personal data processing standards |
+| Includes recovery and detection aspects | Focuses mainly on collection, processing, and storage of personal information |
+
+---
+
+## 5. Conclusion
+
+While both NIST CSF and POPIA aim to protect data and ensure security, NIST CSF is broader in scope and focused on organizational cybersecurity risk management. In contrast, POPIA is more focused on data privacy and the specific handling of personal information within South Africa.
+
+---
+
+> _This is a comparison document created for cybersecurity portfolio purposes._
